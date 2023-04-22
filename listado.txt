@@ -1,6 +1,0 @@
-total 16K
--rw-r--r-- 1 197121 13K Apr 19 20:25 habilidadesBlandas.docx
--rw-r--r-- 1 197121   0 Apr 19 20:28 listado.txt - Modificación local
--rw-r--r-- 1 197121   0 Apr 19 20:28 listado.txt - Modificación remota
--rw-r--r-- 1 197121   0 Apr 19 20:28 archivoInexistente.txt
--rw-r--r-- 1 197121   0 Apr 19 20:28 archivoInexistente2.txt
