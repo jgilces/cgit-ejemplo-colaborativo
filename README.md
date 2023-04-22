@@ -5,3 +5,4 @@
 
 - Aron Josué Caballero Macías
 - Luis Sarmiento
+- Jimmy Gilces Vargas
