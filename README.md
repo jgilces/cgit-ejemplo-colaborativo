@@ -4,4 +4,5 @@
 ## Aqui van los nombres de los asistentes:
 
 - Aron Caballero Macías
+- Luis Sarmiento
 
