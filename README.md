@@ -4,4 +4,4 @@
 ## Aqui van los nombres de los asistentes:
 
 - Aron Caballero Macías
-
+- Jimmy Gilces Vargas
